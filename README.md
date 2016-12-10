@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/shufo/plug_maintenance.svg?branch=master)](https://travis-ci.org/shufo/plug_maintenance)
+[![hex.pm version](https://img.shields.io/hexpm/v/plug_maintenance.svg)](https://hex.pm/packages/plug_maintenance)
+[![hex.pm](https://img.shields.io/hexpm/l/plug_maintenance.svg)](https://github.com/shufo/plug_maintenance/blob/master/LICENSE)
+
 # PlugMaintenance
 
 An Elixir plug that returns a service unavailable response during maintenance.
