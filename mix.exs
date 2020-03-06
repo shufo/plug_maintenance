@@ -35,7 +35,7 @@ defmodule PlugMaintenance.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:cowboy, "~> 1.0.0"},
+    [{:cowboy, "~> 1.1.2"},
      {:plug, "~> 1.0"},
      {:ex_doc, ">= 0.0.0", only: :dev},
     ]
